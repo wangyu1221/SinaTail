@@ -1,1 +1,6 @@
-{"version":1,"tails":[{"manufacture":"testManufacture1","model":"testModel1","display":"testDisplay1"},{"manufacture":"testManufacture2","model":"testModel2","display":"testDisplay2"}]}
+{"version":0,"tails":[
+	{"manufacture":"testManufacture1","model":"testModel1","display":"testDisplay1","version":1},
+	{"manufacture":"testManufacture2","model":"testModel2","display":"testDisplay2","version":2},
+	{"manufacture":"testManufacture3","model":"testModel3","display":"testDisplay3","version":3},
+	{"manufacture":"testManufacture4","model":"testModel4","display":"testDisplay4","version":4}
+]}
