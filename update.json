@@ -1,8 +1,8 @@
-{"v":2,"tails":[
-  {"v":2,"a":"add","d":"OPPO Find 5","m":"X909","mf":"OPPO"},
-  {"v":2,"a":"add","d":"HTC Butterfly","m":"HTC X920e","mf":"HTC"},
-  {"v":2,"a":"add","d":"Xperia neo MT15i","m":"MT15i","mf":"Sony Ericsson"},
-  {"v":2,"a":"add","d":"Xperia arc LT15i","m":"LT15i","mf":"Sony Ericsson"},
-  {"v":2,"a":"add","d":"索尼Xperia SL LT26ii","m":"LT26ii","mf":"Sony Ericsson"},
-  {"v":2,"a":"add","d":"索尼Xperia ZL L35h","m":"L35h","mf":"Sony"}
+{"version":2,"tails":[
+  {"version":2,"action":"add","display":"OPPO Find 5","model":"X909","manufacture":"OPPO"},
+  {"version":2,"action":"add","display":"HTC Butterfly","model":"HTC X920e","manufacture":"HTC"},
+  {"version":2,"action":"add","display":"Xperia neo MT15i","model":"MT15i","manufacture":"Sony Ericsson"},
+  {"version":2,"action":"add","display":"Xperia arc LT15i","model":"LT15i","manufacture":"Sony Ericsson"},
+  {"version":2,"action":"add","display":"索尼Xperia SL LT26ii","model":"LT26ii","manufacture":"Sony Ericsson"},
+  {"version":2,"action":"add","display":"索尼Xperia ZL L35h","model":"L35h","manufacture":"Sony"}
 ]}
