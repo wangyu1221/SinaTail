@@ -5,5 +5,5 @@
   {"version":2,"action":"add","display":"Xperia arc LT15i","model":"LT15i","manufacture":"Sony Ericsson"},
   {"version":2,"action":"add","display":"索尼Xperia SL LT26ii","model":"LT26ii","manufacture":"Sony Ericsson"},
   {"version":2,"action":"add","display":"索尼Xperia ZL L35h","model":"L35h","manufacture":"Sony"},
-  {"version":3,"action":"add","display":"索尼Xperia VC LT25c","model":"L25c","manufacture":"Sony"}
+  {"version":3,"action":"add","display":"索尼Xperia VC LT25c","model":"LT25c","manufacture":"Sony"}
 ]}
