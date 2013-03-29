@@ -1,4 +1,4 @@
-{"version":4,"tails":[
+{"version":5,"tails":[
   {"version":2,"action":"add","display":"OPPO Find 5","model":"X909","manufacture":"OPPO"},
   {"version":2,"action":"add","display":"HTC Butterfly","model":"HTC X920e","manufacture":"HTC"},
   {"version":2,"action":"add","display":"Xperia neo MT15i","model":"MT15i","manufacture":"Sony Ericsson"},
@@ -6,5 +6,7 @@
   {"version":2,"action":"add","display":"索尼Xperia SL LT26ii","model":"LT26ii","manufacture":"Sony Ericsson"},
   {"version":2,"action":"add","display":"索尼Xperia ZL L35h","model":"L35h","manufacture":"Sony"},
   {"version":3,"action":"add","display":"索尼Xperia VC LT25c","model":"LT25c","manufacture":"Sony"},
-  {"version":4,"action":"add","display":"索尼Xperia Z L36h","model":"L36h","manufacture":"Sony"}
+  {"version":4,"action":"add","display":"索尼Xperia Z L36h","model":"L36h","manufacture":"Sony"},
+  {"version":5,"action":"add","display":"索尼Xperia SP M35h","model":"M35h","manufacture":"Sony"},
+  {"version":5,"action":"add","display":"索尼Xperia SP M35c","model":"M35c","manufacture":"Sony"}
 ]}
