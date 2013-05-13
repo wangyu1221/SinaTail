@@ -1,4 +1,6 @@
 {"tails":[
-  {"version":5,"action":"add","display":"索尼Xperia SP M35h","model":"M35h","manufacture":"Sony"},
-  {"version":5,"action":"add","display":"索尼Xperia SP M35c","model":"M35c","manufacture":"Sony"}
+  {"version":6,"action":"add","display":"三星Galaxy S4","model":"GT-I9500","manufacture":"samsung"},
+  {"version":6,"action":"add","display":"中国移动三星galaxyS4","model":"GT-I9508","manufacture":"samsung"},
+  {"version":6,"action":"add","display":"小米手机2","model":"MI 2","manufacture":"Xiaomi"},
+  {"version":6,"action":"add","display":"小米手机2S","model":"MI 2S","manufacture":"Xiaomi"}
 ]}
