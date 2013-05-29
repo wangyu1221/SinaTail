@@ -1,4 +1,4 @@
-{"version":6,"tails":[
+{"version":7,"tails":[
   {"version":2,"action":"add","display":"OPPO Find 5","model":"X909","manufacture":"OPPO"},
   {"version":2,"action":"add","display":"HTC Butterfly","model":"HTC X920e","manufacture":"HTC"},
   {"version":2,"action":"add","display":"Xperia neo MT15i","model":"MT15i","manufacture":"Sony Ericsson"},
@@ -16,5 +16,7 @@
   {"version":6,"action":"add","display":"三星Galaxy S4","model":"GT-I9500","manufacture":"samsung"},
   {"version":6,"action":"add","display":"中国移动三星galaxyS4","model":"GT-I9508","manufacture":"samsung"},
   {"version":6,"action":"add","display":"小米手机2","model":"MI 2","manufacture":"Xiaomi"},
-  {"version":6,"action":"add","display":"小米手机2S","model":"MI 2S","manufacture":"Xiaomi"}
+  {"version":6,"action":"add","display":"小米手机2S","model":"MI 2S","manufacture":"Xiaomi"},
+  {"version":7,"action":"add","display":"HTC One SU","model":"T528w","manufacture":"HTC"},
+  {"version":7,"action":"add","display":"我的索尼Xperia","model":"S36h","manufacture":"Sony"}
 ]}
